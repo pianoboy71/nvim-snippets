@@ -19,7 +19,7 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim)
 
 ```lua
 {
-  "garymjr/nvim-snippets",
+  "pianoboy71/nvim-snippets",
   keys = {
     {
       "<Tab>",
